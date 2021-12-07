@@ -107,6 +107,26 @@
         "https://knowhere.art/collection/terra19auzecsexkyzekcg5r6gvrlm4df3cardccc70w"
       ]
     },
+    "terra1pzja9km8xe5qzg0exu5maatae62fu7dg5mh74q": {
+      "contract": "terra189qtkvsnjdladzsx5qjt24rlq8t74nhr3840xn",
+      "name": "Groovy Afterlife",
+      "symbol": "GROOVY",
+      "icon": "https://storage.googleapis.com/public-knowhere/collections/groovy_afterlife.jpg",
+      "homepage": "https://www.groovyafterlife.xyz/",
+      "marketplace": [
+        "https://knowhere.art/collection/terra189qtkvsnjdladzsx5qjt24rlq8t74nhr3840xn"
+      ]
+    },
+    "terra1pzja9km8xe5qzg0exu5maatae62fu7dg5mh74q": {
+      "contract": "terra19kek2835khlutvsu4h86vypeqnz24jh2cytffd",
+      "name": "Groovy Lunacy",
+      "symbol": "GROOVY",
+      "icon": "https://groovyafterlife.xyz/GroovyLunacyLOGO400x400.png",
+      "homepage": "https://www.groovyafterlife.xyz/",
+      "marketplace": [
+        "https://talis.art/collection/terra19kek2835khlutvsu4h86vypeqnz24jh2cytffd"
+      ]
+    },
     "terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq": {
       "contract": "terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq",
       "protocol": "Astroverse",
